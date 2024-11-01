@@ -1,0 +1,38 @@
+.title{
+	margin-right: 80%;
+	
+	
+	padding: 20px;
+	font-size:20pt;
+}
+
+fieldset{
+	padding: 20px;
+	display: inline-block;
+	border: 1px solid #DDDDDD;
+}
+
+label{
+	display: block;
+}
+
+input{
+	margin:10px 15px 10px 20px !important;
+	
+}
+
+.weasel{
+	background-Color:#ffa500;
+	color: #FFFFFF;
+}
+
+.content{
+	font-size:14pt;
+}
+
+.plugin-icon{
+	background-image: url('assets/logo-weasel-prestashop.gif');
+	width: 128px;
+	height: 128px;
+	background-size: 128px 128px;
+}
